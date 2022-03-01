@@ -8,4 +8,4 @@
 Pzquzer/Pzquzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<figure><embed src="https://wakatime.com/share/@Pzquzer/d40c48d9-6277-4114-8001-276ef1c3e9d9.svg"></embed></figure>
+[![wakatime](https://wakatime.com/share/@Pzquzer/d40c48d9-6277-4114-8001-276ef1c3e9d9.svg)](https://wakatime.com/share/@Pzquzer/d40c48d9-6277-4114-8001-276ef1c3e9d9.svg)
