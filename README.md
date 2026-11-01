@@ -6,7 +6,7 @@ Software developer with about 8 years of experience (2018 – present), currentl
 
 I enjoy designing systems that connect to the real world: ERP integration (SAP S/4HANA), bank payment gateways, and platforms used across hundreds of real-estate projects.
 
-📫 [Email](mailto:your@email.com) · [LinkedIn](https://www.linkedin.com/in/your-profile)
+📫 [Email](mailto:paddlepop15@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pattanapong-paspisanu-24753a207)
 
 ---
 
