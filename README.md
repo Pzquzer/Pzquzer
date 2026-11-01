@@ -1,21 +1,84 @@
-<h1 align="center">Hi 👋, I'm Tan</h1>
-<h3 align="center">A passionate developer from Thailand</h3>
+# Hi, I'm Pattanapong Paspisanu 👋
 
-- 💬 Ask me about **laravel, docker**
+**Software Developer · System Analyst · Dev Lead**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Software developer with about 8 years of experience (2018 – present), currently a System Analyst and Dev Lead at **Forviz**, leading teams of 3–5 on government, state-enterprise and large private-sector projects.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+I enjoy designing systems that connect to the real world: ERP integration (SAP S/4HANA), bank payment gateways, and platforms used across hundreds of real-estate projects.
 
-[![wakatime](https://wakatime.com/badge/user/ad0534b6-9636-471f-95ba-c0a1a34b4113.svg)](https://wakatime.com/@ad0534b6-9636-471f-95ba-c0a1a34b4113)
+📫 [Email](mailto:your@email.com) · [LinkedIn](https://www.linkedin.com/in/your-profile)
 
-<!---
-Pzquzer/Pzquzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![wakatime](https://wakatime.com/share/@Pzquzer/d40c48d9-6277-4114-8001-276ef1c3e9d9.svg)](https://wakatime.com/share/@Pzquzer/d40c48d9-6277-4114-8001-276ef1c3e9d9.svg)
+---
 
+## 🛠 Tech Stack
 
+| Area | Tools |
+| --- | --- |
+| Back-end | Go, NestJS, Laravel, Fastify |
+| Front-end | Next.js, React, React Admin, Tailwind CSS, shadcn/ui, Radix UI |
+| Database | PostgreSQL, MySQL, MSSQL, Redis |
+| Messaging | RabbitMQ |
+| Auth | JWT, Keycloak, Azure AD, Basic Auth |
+| Cloud (AWS) | S3, EC2, ECR, CloudFront, RDS |
+| DevOps | Docker, Docker Compose, Docker Swarm, Kubernetes |
+| Automation | n8n (ETL/ELT workflows) |
+| Testing | Unit testing, E2E testing, Playwright, Chrome DevTools |
+| Design & Docs | dbdiagram, Mermaid, Confluence |
+| Tools | VS Code, Postman, Bruno, DBeaver, Ubuntu / Linux CLI |
+| AI | Claude Code, Claude (chat, scheduled tasks, artifacts), ECC |
+
+---
+
+## 💡 How I Work
+
+- **Back-end design:** monorepo structures for microservices, and the right design pattern for each problem (Repository, Factory, Strategy, Observer, Adapter, Decorator).
+- **System design:** system architecture, server sizing, and code repository structure.
+- **Testing:** unit and E2E tests with Playwright.
+- **AI-assisted development:** built Claude commands for daily team routines such as deployment and deploy notes, cutting deployment time from **~2 hours to 10 minutes**.
+- **Single source of truth:** I summarize project knowledge into one reference so the AI works from the same context as the team.
+
+---
+
+## 🚀 Featured Projects
+
+### AOT E-Invoice — Airports of Thailand · *SA, Dev Lead*
+Web portal where **~2,000 airport tenant companies** view and pay invoices online.
+- Gathered requirements with AOT, designed the bank integration flow, and split work and reviewed code for the team.
+- Two-way integration with **SAP S/4HANA**: invoices, credit notes, clear/reverse status, and automatic posting of payment results.
+- Payment integration with **KTB, SCB and TTB** (Thai QR, pay-in slip, redirect pay, bill payment) plus international transfers.
+- Customer Portal and Admin Portal with Azure AD sign-in.
+
+### M-Flow — Department of Highways · *SA, Dev Lead*
+Platform for administrative fine cases at the Bureau of Intercity Motorways, where officers compile case documents for the courts and public prosecutors.
+
+### SDO — Ministry of Defence · *SA, Developer*
+Migration of an internal website to a new system, including a performance evaluation system for civil servants, government employees and staff.
+
+### SSM Juristic Application — AP · *SA, Dev Lead (Back-end)*
+Platform for the juristic persons of **~300** AP condominium and housing projects.
+
+### Resident Platforms · *Back-end & Back-office Developer*
+Mobile and web apps for residents across **~500 real-estate projects**:
+Smart World (AP, ~300) · SABAI (Supalai, ~90) · Primo Plus (Origin Property, ~70) · Home+ (Frasers Property, ~40)
+
+### Venue — Forviz in-house product
+ETL/ELT automation with **n8n** to pull data from source systems into the platform.
+
+### Toyota CPS and Trim Pricing System — Toyota Motor / TDEM · *Developer*
+Web application for managing Toyota auto-part pricing.
+
+---
+
+## 💼 Experience
+
+**Forviz Co., Ltd.** — Developer / System Analyst / Dev Lead · 2020 – present
+
+**Two Fellows Network and Design Co., Ltd.** — Back-end Developer · 2018 – 2020
+Projects for EXIM Bank of Thailand, National Housing Authority (MySQL → Oracle migration) and Department of Industrial Promotion.
+
+---
+
+## 🎓 Education
+
+**Suan Sunandha Rajabhat University** · 2014 – 2018
+B.Sc. in Information Technology
